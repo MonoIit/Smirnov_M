@@ -3,9 +3,9 @@
 int main() {
 	std::cout << "Hello Wordl!\n";
 
-	int x;
+	int x, y;
 	std::cout << "Enter number: \n";
 	std::cin >> x;
 	std::cout << x;
-	return 0;
+	std::cin >> y;
 }
