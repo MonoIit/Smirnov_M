@@ -7,4 +7,5 @@ int main() {
 	std::cout << "Enter number: \n";
 	std::cin >> x;
 	std::cout << x;
+	return 0;
 }
