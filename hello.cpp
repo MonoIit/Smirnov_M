@@ -2,10 +2,9 @@
 
 int main() {
 	std::cout << "Hello Wordl!\n";
-
-	int x, y;
+	int x;
 	std::cout << "Enter number: \n";
 	std::cin >> x;
 	std::cout << x;
-	std::cin >> y;
-}
+	return 0;
+}			
